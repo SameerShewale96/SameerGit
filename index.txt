@@ -1,1 +1,2 @@
 This is the index file where we write the index of this website.
+Then we design the website through Css.
